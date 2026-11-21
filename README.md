@@ -8,7 +8,7 @@ Software Engineer focused on building resilient backend systems, scalable APIs, 
 
 #### `Stack`
 
-`PHP` · `Laravel` · `Java` · `Kotlin` · `C++` · `Python` · `JavaScript` · `SQL` · `SQL`
+`PHP` · `Laravel` · `Java` · `Kotlin` · `C++` · `Python` · `JavaScript` · `SQL` · `HTML`
 
 ---
 
