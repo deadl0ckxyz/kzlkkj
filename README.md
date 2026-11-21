@@ -22,7 +22,7 @@ Software Engineer focused on building resilient backend systems, scalable APIs, 
 
 #### `Connect`
 
-- **Hub:** [zyo.se/deadl0ck](https://zyo.se)
+- **Hub:** [zyo.se/deadl0ck](https://zyo.se/deadl0ck)
 - **Discord:** `.deadl0ck`
 
 ---
