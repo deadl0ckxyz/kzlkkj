@@ -1,20 +1,30 @@
-<div align="left">
+### ⛧ `deadl0ck`
 
-### `⛧ deadl0ck`
+> *"Silent execution. Heavy impact."*
 
-Software Engineer.  
-Backend focused, full stack capable.
+Software Engineer focused on building resilient backend systems, scalable APIs, and clean architecture. Capable across the full stack when precision is required.
 
-<br>
+---
+
+#### `Stack`
 
 `PHP` · `Laravel` · `Java` · `Kotlin` · `C++` · `Python` · `JavaScript` · `SQL`
 
-<br>
+---
 
-*Silent execution. Heavy impact.*
+#### `Focus`
 
-<br>
+- **Backend & Architecture** — High-availability services, databases, and system design.
+- **Performance** — Low-level optimization and clean, maintainable codebases.
+- **Full Stack** — End-to-end delivery without unnecessary overhead.
 
-[zyo.se/deadl0ck](https://zyo.se) · `.deadl0ck`
+---
 
-</div>
+#### `Connect`
+
+- **Hub:** [zyo.se/deadl0ck](https://zyo.se)
+- **Discord:** `.deadl0ck`
+
+---
+
+<sub>`127.0.0.1` — Always building in the dark.</sub>
