@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**kzlkkj/kzlkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `root@deadl0ck:~# ./whoami.sh`
 
-Here are some ideas to get you started:
+```text
+⛧ deadl0ck // Software Engineer
+Backend Specialist | Full Stack Experience
+Silent execution. Heavy impact.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `0x01 // CORE STACK`
+
+<p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### `0x02 // SYSTEM METRICS`
+
+<p>
+  <img height="150" src="https://vercel.app" />
+  <img height="150" src="https://vercel.app" />
+</p>
+
+---
+
+### `0x03 // ENDPOINTS`
+
+<p>
+  <a href="https://zyo.se" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
+</div>
