@@ -1,48 +1,37 @@
-<div align="left">
+```bash
+root@deadl0ck:~# ./init.sh --profile
 
-### `root@deadl0ck:~# ./whoami.sh`
-
-```text
-⛧ deadl0ck // Software Engineer
-Backend Specialist | Full Stack Experience
-Silent execution. Heavy impact.
+[OK] Loading kernel modules...
+[OK] Mounting /dev/backend...
+[OK] Identity verified: ⛧ deadl0ck
 ```
 
----
+### `0x00 // IDENTITY`
+```yaml
+user:     "⛧ deadl0ck"
+role:     "Software Engineer"
+focus:    "Backend Architecture & Distributed Systems"
+capable:  "Full Stack Development"
+host:     "127.0.0.1"
+motto:    "Silent execution. Heavy impact."
+```
 
 ### `0x01 // CORE STACK`
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | `PHP` • `Laravel` • `Java` • `Kotlin` • `Python` |
+| **Low-Level** | `C++` • `Linux / Bash` |
+| **Frontend** | `JavaScript` • `HTML5` • `CSS3` |
+| **Database** | `SQL` • `MySQL` • `PostgreSQL` |
 
----
+### `0x02 // ENDPOINTS`
+```text
+-> web:     https://zyo.se
+-> discord: .deadl0ck
+-> github:  https://github.com
+```
 
-### `0x02 // SYSTEM METRICS`
-
-<p>
-  <img height="150" src="https://vercel.app" />
-  <img height="150" src="https://vercel.app" />
-</p>
-
----
-
-### `0x03 // ENDPOINTS`
-
-<p>
-  <a href="https://zyo.se" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
-
-</div>
+```text
+[PROCESS EXITED WITH CODE 0]
+```
